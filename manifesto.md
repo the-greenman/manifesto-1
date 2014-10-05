@@ -1,4 +1,4 @@
-﻿The Greenmnś Fixer Manifesto
+﻿The Greenman´s Fixer Manifesto
 =============================
 
 **1. If it’s broken, fix it!** Because everyday practical problem solving is the most beautiful form of creativity there is.
